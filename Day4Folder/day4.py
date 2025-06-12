@@ -15,7 +15,7 @@ for count in range(10):
 
 counter = 0
 while counter < 5:
-    print
+    print(counter)
 
 ########################################################################
 # Task 2:
