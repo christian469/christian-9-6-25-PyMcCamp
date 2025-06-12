@@ -24,6 +24,6 @@ question =  "A woman, while at the funeral of her sister met a guy. She and this
 hidden_answer = 'The woman murdered her brother because she wanted the new guy to come to her brother'
 guess= input( question )
 while guess !=hidden_answer:
-    print
+    print("")
 ########################################################################
 # Additional exercises:
