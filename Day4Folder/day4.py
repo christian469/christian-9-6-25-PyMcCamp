@@ -6,7 +6,7 @@ print("hello from day4")
 import random 
 
 for count in range(10):
-    random
+    randomnumber = random.ra
 
 
 ########################################################################
