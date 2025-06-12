@@ -25,6 +25,7 @@ hidden_answer = 'The woman murdered her brother because she wanted the new guy t
 guess= input( question )
 while guess !=hidden_answer:
     print("wrong anwser try agian...")
-    guess= input
+    guess= input( question )
+    
 ########################################################################
 # Additional exercises:
