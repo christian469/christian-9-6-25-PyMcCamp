@@ -6,7 +6,7 @@ print("hello from day4")
 import random 
 
 for count in range(10):
-    randomnumber = random.randint
+    randomnumber = random.randint(1, 200)
 
 
 ########################################################################
