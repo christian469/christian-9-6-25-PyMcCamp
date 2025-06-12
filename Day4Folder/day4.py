@@ -7,7 +7,7 @@ import random
 
 for count in range(10):
     randomnumber = random.randint(1, 200)
-
+    print
 
 ########################################################################
 # Task 1:
