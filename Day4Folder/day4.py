@@ -13,8 +13,9 @@ for count in range(10):
 # Task 1:
 
 
-counter
-
+counter = 0
+while counter < 5:
+    print
 
 ########################################################################
 # Task 2:
