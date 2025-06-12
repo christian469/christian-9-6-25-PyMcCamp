@@ -20,8 +20,10 @@ while counter < 5:
 
 ########################################################################
 # Task 2:
-
-
-
+question =  "A woman, while at the funeral of her sister met a guy. She and this guy just clicked and she fell in love then and there. However, she got distracted and did not get his number and could not find him. A week later she murdered her brother. Why did she murder her brother?"
+hidden_answer = 'The woman murdered her brother because she wanted the new guy to come to her brother'
+guess= input( question )
+while guess !=hidden_answer:
+    print
 ########################################################################
 # Additional exercises:
