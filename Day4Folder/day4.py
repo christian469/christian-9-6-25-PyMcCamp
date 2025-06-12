@@ -5,7 +5,8 @@ print("hello from day4")
 #recap
 import random 
 
-
+for count in range(10):
+    random
 
 
 ########################################################################
