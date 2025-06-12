@@ -3,7 +3,7 @@
 print("hello from day4")
 
 #recap
-im
+import random 
 
 
 
