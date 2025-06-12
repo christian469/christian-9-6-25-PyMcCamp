@@ -2,6 +2,12 @@
 # COMMENT out the previous task before going on to the next task
 print("hello from day4")
 
+
+
+
+
+
+
 ########################################################################
 # Task 1:
 
