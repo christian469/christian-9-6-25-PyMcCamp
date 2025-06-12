@@ -26,6 +26,8 @@ guess= input( question )
 while guess !=hidden_answer:
     print("wrong anwser try agian...")
     guess= input( question )
-    
+
+
+    print("")
 ########################################################################
 # Additional exercises:
